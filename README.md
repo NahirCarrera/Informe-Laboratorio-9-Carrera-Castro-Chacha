@@ -10,9 +10,9 @@
   ### General: 
   * Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
   ### Específicos
-  *
-  * 
-  * 
+  * Ejemplificar el proceso de transformación de números complejos de su forma rectangular a su forma polar y viceversa para una mejor compresión de las operaciones entres este tipo de números.
+  * Comparar las respuestas obtenidas de manera análitica con las de una calculadora científica sobre las operaciones de números complejos planteadas.
+  * Justificar la ejecución de la práctica por medio de un archivo audiovisual para fundamentar la resolución de operaciones con números complejos.
 ## 2. Marco Teórico
   ## <p align=center> Fasores
   ![image](https://user-images.githubusercontent.com/93829962/155152570-a00e5f3b-b4c6-4868-8238-735c1b535cb5.png)
@@ -38,7 +38,7 @@ _Ilustración 2. Ejercicios de transformación polar -> rectangular_
 ![Literal B](https://user-images.githubusercontent.com/93829976/155084369-c3b6d834-a2a8-49b3-8f79-30df4ade4a26.png)
 ![Literal C](https://user-images.githubusercontent.com/93829976/155084379-cef66221-7b7e-4e28-ac71-ccad1798259d.png)
 
-_Ilustración 3.ajáL_
+_Ilustración 3. Operaciones con números complejos de manera analítica_
     
 4) Operaciones anteriores por medio de la calculadora y comparación de resultados en tabla 9.1.
     
@@ -103,7 +103,7 @@ _Tabla 9.2 Comparación de resultados forma polar_
   * https://www.youtube.com/watch?v=M0ucTPywpL8
 ## 6. Conclusiones
   * Tras culminar el laboratorio comprendimos como equipo que es importante tener noción de ambas formas en las que se puede representar un fasor, pues tanto la forma rectangular como la polar nos brinda información del comportamiento o características de ondas sinusoidales, de manera que en fasores representados de forma polar podemos obtener información de la magnitud y la fase angular, en cambio, en fasores representados de forma rectangular que se representa con imaginarios nos permiten conocer las componentes. De la misma manera las operaciones que se pueden realizar con esta representación fasorial, y de qué manera resulta conveniente operar en división, multiplicación, suma o resta.
-  * 
+  * El uso de una calculadora para realizar los cálculos tanto de transformación de forma polar a rectangular y viceversa como para las operaciones entre los fasores es de suma importancia, ya que con ello es posible comparar los resultados obtenidos teóricamente con un margen pequeño de  error, es importante considerar que los ángulos negativos se pueden expresar como positivos haciendo la sustracción correspondiente, además  que es más sencillo trabajar en coordenadas polares para operaciones de división y multiplicación y en rectangulares para adición y sustracción, pero al momento de utilizar la calculadora científica es más conveniente realizar los cálculos de forma rectangular que  es la manera en que se trabajó este laboratorio. Finalmente se puede decir que los resultados obtenidos son una representación de fasores que se pueden aplicar en circuitos eléctricos, pues la representación en ambas formas, polar y rectangular nos permiten conocer valores de voltaje o corriente de formas senoidales representados en función de su magnitud y fase angular.
 ## 7. Bibliografía
     
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
