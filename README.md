@@ -103,7 +103,7 @@ _Tabla 9.2 Comparación de resultados forma polar_
 
 
 ## 5. Video
-  * 
+  * https://www.youtube.com/watch?v=M0ucTPywpL8
 ## 6. Conclusiones
   * 
   * 
