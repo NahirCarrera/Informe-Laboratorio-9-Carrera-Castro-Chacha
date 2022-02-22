@@ -27,14 +27,15 @@
     
 1) Transformación de forma rectangular a polar.
     
+![Lab 9 Lit 1](https://user-images.githubusercontent.com/93829962/155053539-97ee4ccf-4ab8-49ef-8b5b-8989cc6111ce.JPG)
 
-_Ilustración 1. ajá_
+_Ilustración 1. Ejercicios de transformación rectangular -> polar_
     
 2) Transformación de forma polar a rectangular
  
+![Lab 9 Lit 2](https://user-images.githubusercontent.com/93829962/155053559-b96a79ff-bc0d-4851-beaf-363e4301acd8.JPG)
 
-
-_Ilustración 2. ajá_
+_Ilustración 2. Ejercicios de transformación polar -> rectangular_
     
 3) Operaciones paso a paso, y representación del resultado tanto en su forma rectangular como en su forma polar.
 
