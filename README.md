@@ -44,47 +44,47 @@ _Ilustración 3. Operaciones con números complejos de manera analítica_
     
 ![image](https://user-images.githubusercontent.com/93786746/155035838-5521dc0e-5967-435a-a652-a0cdf5506299.png)
 
-_Ilustración 4. Ejercicio a. transformación 1 de forma polar a rectángular_   
+_Ilustración 4. Ejercicio a. transformación 1 de forma polar a rectángular haciendo uso de la calculadora intmath_   
   
 ![image](https://user-images.githubusercontent.com/93786746/155035781-f8d71280-37c4-4c8c-8330-1e912ad339cc.png)
 
-_Ilustración 5. Ejercicio a. comprobación del resultado en calculadora_  
+_Ilustración 5. Ejercicio a. comprobación del resultado  haciendo uso de la calculadora symbolab_  
     
 ![image](https://user-images.githubusercontent.com/93786746/155036742-4aed6f5d-f800-492d-821d-0d7b75135d5c.png)
 
-_Ilustración 6. Ejercicio a. transformación 1 de forma rectangular a polar_  
+_Ilustración 6. Ejercicio a. transformación 1 de forma rectangular a polar haciendo uso de la calculadora intmath_  
     
 ![image](https://user-images.githubusercontent.com/93786746/155035957-7787792d-d90d-4816-b943-f7ff3bd41510.png)
 
-_Ilustración 7. Ejercicio b. transformación 1 de forma polar a rectángular_  
+_Ilustración 7. Ejercicio b. transformación 1 de forma polar a rectángular haciendo uso de la calculadora intmath_  
      
 ![image](https://user-images.githubusercontent.com/93786746/155036031-72266396-f84f-493e-b9e9-ee5b42068654.png)
 
-_Ilustración 8. Ejercicio b. transformación 2 de forma polar a rectángular_ 
+_Ilustración 8. Ejercicio b. transformación 2 de forma polar a rectángular haciendo uso de la calculadora intmath_ 
     
 ![image](https://user-images.githubusercontent.com/93786746/155036110-0faaa927-055b-4ec0-90d3-53f04942ff68.png)
 
-_Ilustración 9. Ejercicio b. Comprobación del resultado en calculadora_ 
+_Ilustración 9. Ejercicio b. Comprobación del resultado haciendo uso de la calculadora symbolab_ 
     
 ![image](https://user-images.githubusercontent.com/93786746/155036877-f116b058-fb1b-45fa-807e-e5c1b85caac4.png)
     
-_Ilustración 10. Ejercicio b. transformación 1 de forma rectangular a polar_
+_Ilustración 10. Ejercicio b. transformación 1 de forma rectangular a polar haciendo uso de la calculadora intmath_
  
 ![image](https://user-images.githubusercontent.com/93786746/155036222-15b37e2a-3bec-4f9b-9904-6add25ceea15.png)
 
-_Ilustración 11. Ejercicio c. transformación 1 de forma polar a rectángular_ 
+_Ilustración 11. Ejercicio c. transformación 1 de forma polar a rectángular haciendo uso de la calculadora intmath_ 
  
 ![image](https://user-images.githubusercontent.com/93786746/155036380-1681785c-538f-4c62-a0c1-d40588ecd8d0.png)
 
-_Ilustración 12. Ejercicio c. transformación 2 de forma polar a rectángular_ 
+_Ilustración 12. Ejercicio c. transformación 2 de forma polar a rectángular haciendo uso de la calculadora intmath_ 
   
 ![image](https://user-images.githubusercontent.com/93786746/155036409-0c26c999-ff93-4799-a97b-7ec0f37026f5.png)
 
-_Ilustración 13. Ejercicio c. Comprobación del resultado en calculadora_ 
+_Ilustración 13. Ejercicio c. Comprobación del resultado haciendo uso de la calculadora symbolab_ 
     
 ![image](https://user-images.githubusercontent.com/93786746/155037013-52283072-726b-40c1-87dd-a21123c49d39.png)
 
-_Ilustración 14. Ejercicio c.  transformación 1 de forma rectangular a polar_ 
+_Ilustración 14. Ejercicio c.  transformación 1 de forma rectangular a polar haciendo uso de la calculadora intmath_ 
     
 ## 4. Tabulación de datos
     
