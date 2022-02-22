@@ -15,11 +15,7 @@
   * 
 ## 2. Marco Teórico
   ## <p align=center> Fasores
-
-    
-  ## <p align=center> Materiales
-
-
+  ![image](https://user-images.githubusercontent.com/93829962/155152570-a00e5f3b-b4c6-4868-8238-735c1b535cb5.png)
 ## 3. Explicación del Procedimiento
    ## Materiales
  * Calculadora científica
