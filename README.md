@@ -105,7 +105,7 @@ _Tabla 9.2 Comparación de resultados forma polar_
 ## 5. Video
   * https://www.youtube.com/watch?v=M0ucTPywpL8
 ## 6. Conclusiones
-  * 
+  * Tras culminar el laboratorio comprendimos como equipo que es importante tener noción de ambas formas en las que se puede representar un fasor, pues tanto la forma rectangular como la polar nos brinda información del comportamiento o características de ondas sinusoidales, de manera que en fasores representados de forma polar podemos obtener información de la magnitud y la fase angular, en cambio, en fasores representados de forma rectangular que se representa con imaginarios nos permiten conocer las componentes. De la misma manera las operaciones que se pueden realizar con esta representación fasorial, y de qué manera resulta conveniente operar en división, multiplicación, suma o resta.
   * 
 ## 7. Bibliografía
     
