@@ -40,7 +40,7 @@ _Ilustración 2. Ejercicios de transformación polar -> rectangular_
 
 _Ilustración 3. Operaciones con números complejos de manera analítica_
     
-4) Operaciones anteriores por medio de la calculadora y comparación de resultados en tabla 9.1.
+4) Operaciones anteriores realizadas por medio de calculadoras intmath y symbolab para comparación de resultados en tablas 9.1. y 9.2
     
 ![image](https://user-images.githubusercontent.com/93786746/155035838-5521dc0e-5967-435a-a652-a0cdf5506299.png)
 
