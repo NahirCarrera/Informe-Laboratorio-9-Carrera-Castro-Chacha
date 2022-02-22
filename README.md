@@ -38,8 +38,9 @@ _Ilustración 1. Ejercicios de transformación rectangular -> polar_
 _Ilustración 2. Ejercicios de transformación polar -> rectangular_
     
 3) Operaciones paso a paso, y representación del resultado tanto en su forma rectangular como en su forma polar.
-
-
+![Literal A ](https://user-images.githubusercontent.com/93829976/155084359-29c7f63a-3663-4eb6-9f57-1b99dd53904b.png)
+![Literal B](https://user-images.githubusercontent.com/93829976/155084369-c3b6d834-a2a8-49b3-8f79-30df4ade4a26.png)
+![Literal C](https://user-images.githubusercontent.com/93829976/155084379-cef66221-7b7e-4e28-ac71-ccad1798259d.png)
 
 _Ilustración 3.ajáL_
     
